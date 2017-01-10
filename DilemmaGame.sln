@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D69ECB57-C156-81B0-5BAB-B691BFB1DC75}") = "DilemmaGame", "Assembly-CSharp.csproj", "{ADA554B4-E7B6-9875-BF8F-9632C72177C6}"
+EndProject
+Project("{D69ECB57-C156-81B0-5BAB-B691BFB1DC75}") = "DilemmaGame", "Assembly-CSharp-Editor.csproj", "{4581CF41-C377-7294-7510-2B4F84383A03}"
+EndProject
+Project("{D69ECB57-C156-81B0-5BAB-B691BFB1DC75}") = "DilemmaGame", "Assembly-UnityScript.unityproj", "{0727E38E-2A71-EA57-B203-D4DE10419697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA554B4-E7B6-9875-BF8F-9632C72177C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA554B4-E7B6-9875-BF8F-9632C72177C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA554B4-E7B6-9875-BF8F-9632C72177C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA554B4-E7B6-9875-BF8F-9632C72177C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4581CF41-C377-7294-7510-2B4F84383A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4581CF41-C377-7294-7510-2B4F84383A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4581CF41-C377-7294-7510-2B4F84383A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4581CF41-C377-7294-7510-2B4F84383A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0727E38E-2A71-EA57-B203-D4DE10419697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0727E38E-2A71-EA57-B203-D4DE10419697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0727E38E-2A71-EA57-B203-D4DE10419697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0727E38E-2A71-EA57-B203-D4DE10419697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
